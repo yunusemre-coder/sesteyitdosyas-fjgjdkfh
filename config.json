@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["833070748054585405"],
+        "ACTIVITY_TEXT": "WANHEDA Voice System",
+        "GUILD_ID": "838087071855804536",
+        "VOICE_CHANNEL": "838087071901417542",
+        "MIN_STAFF_ROLE": "838087071901417536"
+    },
+    "FILES": {
+        "WELCOME": "default_files/<welcome-voice>.mp3",
+        "STAFF": "default_files/<staff-voice>.mp3"
+    },
+    "TOKEN": "BOT_TOKEN"
+}
